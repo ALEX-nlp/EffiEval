@@ -1,5 +1,8 @@
 # EffiEval: Efficient and Generalizable Model Evaluation via Capability Coverage Maximization
 [![arXiv](https://img.shields.io/badge/arXiv-2508.09662-d63333.svg?logo=arxiv)](https://arxiv.org/abs/2508.09662)
+[![Homepage](https://img.shields.io/badge/Homepage-EffiEval-blue?logo=google-chrome)](https://castria-cn.github.io/EffiEval-homepage/)
+[![GitHub - EffiEval](https://img.shields.io/badge/GitHub-EffiEval-181717?logo=github)](https://github.com/Castria-cn/EffiEval)
+[![GitHub-MUI](https://img.shields.io/badge/GitHub-MUI-181717?logo=github)](https://github.com/ALEX-nlp/MUI-Eval)
 
 This is the official implementation of **EffiEval**, a training-free benchmarking framework for large language models (LLMs). EffiEval efficiently selects representative subsets of evaluation data, ensuring **representativeness**, **fairness**, and **generalizability** while maintaining strong ranking consistency with full-dataset evaluation. It is scalable and flexible, allowing users to balance evaluation efficiency and reliability. This work is built upon [Model Utility Law: Evaluating LLMs beyond Performance through Mechanism Interpretable Metric](https://www.arxiv.org/abs/2504.07440).
 
@@ -7,7 +10,7 @@ This is the official implementation of **EffiEval**, a training-free benchmarkin
 ## 1. Installation
 Clone the repository and create environment:
 ```sh
-git clone https://github.com/Castria-cn/EffiEval
+git clone https://github.com/ALEX-nlp/EffiEval.git
 cd EffiEval
 conda create -n effieval python=3.11 -y
 conda activate effieval
