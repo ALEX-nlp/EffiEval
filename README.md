@@ -7,7 +7,7 @@ This is the official implementation of **EffiEval**, a training-free benchmarkin
 ## 1. Installation
 Clone the repository and create environment:
 ```sh
-git clone https://github.com/ALEX-nlp/MUI-Eval
+git clone https://github.com/Castria-cn/EffiEval
 cd EffiEval
 conda create -n effieval python=3.11 -y
 conda activate effieval
