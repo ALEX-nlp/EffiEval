@@ -134,13 +134,10 @@ This will print the correlation (`r_S`, `r_K`) and MAE between the performance o
 ## 3. Citation
 If you find this work helpful, please consider citing:
 ```
-@misc{cao2025effievalefficientgeneralizable,
-      title={EffiEval: Efficient and Generalizable Model Evaluation via Capability Coverage Maximization},
-      author={Yixin Cao and Jiahao Ying and Yubo Ma and Yugang Jiang and Yaoning Wang},
-      year={2025},
-      eprint={2508.09662},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2508.09662},
+@article{wang2025effieval,
+  title={EffiEval: Efficient and Generalizable Model Evaluation via Capability Coverage Maximization},
+  author={Wang, Yaoning and Ying, Jiahao and Cao, Yixin and Ma, Yubo and Jiang, Yugang},
+  journal={arXiv preprint arXiv:2508.09662},
+  year={2025}
 }
 ```
