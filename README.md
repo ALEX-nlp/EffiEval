@@ -48,7 +48,6 @@ EffiEval
 Several examples are provided in the file.
 
 #### 2.1.2 Prepare model for evaluation
-
 In `utils/model.py`, implement the following if necessary:
 
 - `format_tokens`
